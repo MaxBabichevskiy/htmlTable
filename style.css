@@ -1,0 +1,51 @@
+#first{
+    background-color: #FFF0A2;
+}
+
+#first-a {
+    background-color: #FFF0A2;
+    border: 0px solid #FFF0A2;
+    border-left: 1px solid black;
+    border-top: 1px solid black ;
+    text-align: center;
+}
+
+#first-d {
+    background-color: #FFF0A2;
+        border: 0px solid #FFF0A2;
+        border-top: 1px solid black;
+        border-right: 1px solid black;
+            text-align: center;
+}
+
+#second {
+    background-color: #D1D1FF;
+}
+
+#third {
+    background-color:#FFC2C2;
+}
+
+#fourth {
+    background-color: #B2FFD1;
+}
+
+#fifth {
+    background-color: #FFC2FF;
+}
+
+td,th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+table{
+    border-spacing: 0;
+}
+
+
+
+
+
+
+
